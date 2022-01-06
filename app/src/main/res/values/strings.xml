@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AplikasiKereta</string>
+    <string name="kereta_api">Kereta Api</string>
+    <string name="argo_mulyo">Argo Mulyo</string>
+    <string name="made_by_kuswatun_khasanah">Made By Kuswatun Khasanah</string>
+    <string name="go">Go</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="silahkan_booking">Silahkan Booking</string>
+    <string name="name">Name</string>
+    <string name="kota_tujuan">Kota Tujuan</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="bandung">Bandung</string>
+    <string name="surabaya">Surabaya</string>
+    <string name="kelas">Kelas</string>
+    <string name="ekonomi">Ekonomi</string>
+    <string name="bisnis">Bisnis</string>
+    <string name="eksekutiv">Eksekutiv</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="submit">Submit</string>
+    <string name="made_by_raihan_nadhif">Made By Raihan Nadhif</string>
+    <string name="berhasil">Berhasil !!!</string>
+    <string name="selamat_pemesanan_tiket_kereta_anda_telah_diproses_kami_akan_menghubungi_anda_untuk_proses_pembayaran_dalam_waktu_1x24_jam_terima_kasih">Selamat pemesanan tiket kereta anda telah diproses, kami akan menghubungi anda untuk proses pembayaran dalam waktu 1x24 jam. Terima Kasih.</string>
+    <string name="finish">Finish</string>
+</resources>
